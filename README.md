@@ -24,9 +24,9 @@ Components:
 - Semantic storage enabled by PostgreSQL and pgvector
 - Extendable manager system with customized conversational behaviors.    
 
-Explore Zen in its [repository](https://github.com/telalabs/thor).
+Explore Thor in its [repository](https://github.com/telalabs/thor).
 
-### [Toolkit - LLM Function Calling Framework](https://github.com/soralabs/toolkit)
+### [Toolkit - LLM Function Calling Framework](https://github.com/telalabs/toolkit)
 Toolkit is a Go and Rust package for constructing and managing LLM function calling tools. It offers a simple interface for developing AI-compatible functions and grouping them into toolkits.
 
 Key features:
