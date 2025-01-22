@@ -15,7 +15,7 @@ To pioneer open-source AI solutions that align with the principles of decentrali
 
 ## Plots 🛠️
 
-### [ - An Advanced Conversational LLM Framework](https://github.com/soralabs/zen)  
+### [ - An Advanced Conversational LLM Framework](https://github.com/telalabs/thor)  
 Thor is a modular, open-source conversational AI framework designed for the decentralized era. It bridges the power of advanced AI with the flexibility of systems.  
 
 Components: 
@@ -26,7 +26,7 @@ Components:
 
 Explore Thor in its [repository](https://github.com/telalabs/thor).
 
-### [Toolkit - LLM Function Calling Framework](https://github.com/telalabs/toolkit)
+### [Toolkit - LLM Function Calling Framework](https://github.com/telalabs/kit)
 Toolkit is a Go and Rust package for constructing and managing LLM function calling tools. It offers a simple interface for developing AI-compatible functions and grouping them into toolkits.
 
 Key features:
