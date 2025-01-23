@@ -1,11 +1,21 @@
 # Tela Labs 🕸
 
-Welcome to Tela Labs, a place where decentralization and open-source innovation collide. At the nexus of artificial intelligence and cryptocurrency, we offer frameworks and tools that enable developers and communities to produce in a decentralized environment.
-
 ![telabanner](https://github.com/user-attachments/assets/3e952dde-8ab5-4bc4-8142-d20a2d68d1a2)
 
+Tela Labs embodies the ambition to democratize AI, making it accessible, understandable, and applicable for real-world scenarios. At its core, Tela Labs hosts the Thor Framework, a sophisticated, high-performance foundation for building AI agents, designed to thrive in environments where speed, security, and scalability are paramount. Thor leverages the strengths of both Rust and Golang, combining Rust's safety and concurrency with Golang's simplicity and robustness to create a unique platform for AI development.
+
 ## Vision 🌟 
-To pioneer open-source AI solutions that align with the principles of decentralization. Inspired by the ethos of crypto, we aim to foster innovation that is transparent, autonomous, and community-driven.
+Our mission at Tela Labs is to:
+
+Empower Developers: Provide tools and frameworks that allow developers of all levels to create, test, and deploy AI agents with ease.
+
+Enhance Social Interaction: Utilize AI to analyze, engage, and enhance social media interactions, notably on platforms like Twitter, with agents that can understand and react to the nuances of human communication.
+
+Promote Ethical AI: Ensure that our technology is developed with ethical considerations at the forefront, focusing on privacy, security, and responsible AI practices.
+
+Drive Innovation: Continuously explore new methodologies, algorithms, and integrations to keep our tech stack at the cutting edge of AI development.
+
+Our Vision is a world where AI agents are seamlessly integrated into everyday life, augmenting human capabilities and enriching digital experiences. We envision a future where AI not only responds but anticipates, learns, and adapts in real-time to the ever-evolving landscape of social media and beyond.
 
 ---
 
