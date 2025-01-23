@@ -35,6 +35,31 @@ Explore Toolkit in its [repository](https://github.com/telalabs/kit).
 
 ## Core Features
 
+## Extension Points
+1. **LLM Providers**: Add new AI providers by implementing the LLM interface
+```go
+type Provider interface {
+    GenerateCompletion(context.Context, CompletionRequest) (string, error)
+    GenerateJSON(context.Context, JSONRequest, interface{}) error
+    EmbedText(context.Context, string) ([]float32, error)
+}
+```
+
+2. **Managers**: Create new behaviors by implementing the Manager interface
+```go
+type Manager interface {
+    GetID() ManagerID
+    GetDependencies() []ManagerID
+    Process(state *state.State) error
+    PostProcess(state *state.State) error
+    Context(state *state.State) ([]state.StateData, error)
+    Store(fragment *db.Fragment) error
+    StartBackgroundProcesses()
+    StopBackgroundProcesses()
+    RegisterEventHandler(callback EventCallbackFunc)
+    triggerEvent(eventData EventData)
+}
+
 ### Plugin Architecture
 - **Manager System**: Extend functionality through custom managers
   - Insight Manager: Extracts and maintains conversation insights
