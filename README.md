@@ -1,11 +1,10 @@
 # Tela Labs 🕸
 
+Welcome to Tela Labs, a place where decentralization and open-source innovation collide. At the nexus of artificial intelligence and cryptocurrency, we offer frameworks and tools that enable developers and communities to produce in a decentralized environment.
+
 ![telabanner](https://github.com/user-attachments/assets/3e952dde-8ab5-4bc4-8142-d20a2d68d1a2)
 
 **Frameworks and tools**
-
-Welcome to Tela Labs, a place where decentralization and open-source innovation collide. At the nexus of artificial intelligence and cryptocurrency, we offer frameworks and tools that enable developers and communities to produce in a decentralized environment.
-
 ---
 
 ## Vision 🌟 
