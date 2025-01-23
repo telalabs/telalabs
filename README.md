@@ -33,8 +33,6 @@ Key features:
 
 Explore Toolkit in its [repository](https://github.com/telalabs/kit).
 
-## Core Features
-
 ## Extension Points
 1. **LLM Providers**: Add new AI providers by implementing the LLM interface
 ```go
@@ -59,6 +57,7 @@ type Manager interface {
     RegisterEventHandler(callback EventCallbackFunc)
     triggerEvent(eventData EventData)
 }
+```
 
 ### Plugin Architecture
 - **Manager System**: Extend functionality through custom managers
