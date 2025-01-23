@@ -35,7 +35,7 @@ Key features:
 - Pattern of functional possibilities for configuration
 - Support for function parameters and returns in the JSON schema
 
-Explore Toolkit in its [repository](https://github.com/telalabs/toolkit).
+Explore Toolkit in its [repository](https://github.com/telalabs/kit).
 
 ---
 
