@@ -4,9 +4,6 @@ Welcome to Tela Labs, a place where decentralization and open-source innovation 
 
 ![telabanner](https://github.com/user-attachments/assets/3e952dde-8ab5-4bc4-8142-d20a2d68d1a2)
 
-**Frameworks and tools**
----
-
 ## Vision 🌟 
 To pioneer open-source AI solutions that align with the principles of decentralization. Inspired by the ethos of crypto, we aim to foster innovation that is transparent, autonomous, and community-driven.
 
@@ -14,7 +11,7 @@ To pioneer open-source AI solutions that align with the principles of decentrali
 
 ## Plots 🛠️
 
-### [ - An Advanced Conversational LLM Framework](https://github.com/telalabs/thor)  
+### [Thor - An Advanced Conversational LLM Framework](https://github.com/telalabs/thor)  
 Thor is a modular, open-source conversational AI framework designed for the decentralized era. It bridges the power of advanced AI with the flexibility of systems.  
 
 Components: 
@@ -25,7 +22,7 @@ Components:
 
 Explore Thor in its [repository](https://github.com/telalabs/thor).
 
-### [Toolkit - LLM Function Calling Framework](https://github.com/telalabs/kit)
+### [Kit - LLM Function Calling Framework](https://github.com/telalabs/kit)
 Toolkit is a Go and Rust package for constructing and managing LLM function calling tools. It offers a simple interface for developing AI-compatible functions and grouping them into toolkits.
 
 Key features:
