@@ -33,6 +33,49 @@ Key features:
 
 Explore Toolkit in its [repository](https://github.com/telalabs/kit).
 
+## Core Features
+
+### Plugin Architecture
+- **Manager System**: Extend functionality through custom managers
+  - Insight Manager: Extracts and maintains conversation insights
+  - Personality Manager: Handles response behavior and style
+  - Custom Managers: Add your own specialized behaviors
+
+### State Management
+- **Shared State System**: Centralized state management across components
+  - Manager-specific data storage
+  - Custom data injection
+  - Cross-manager communication
+
+### LLM Integration
+- **Provider Abstraction**: Support for multiple LLM providers
+  - Built-in OpenAI support
+  - Extensible provider interface for custom LLMs
+  - Configurable model selection per operation
+  - Automatic fallback and retry handling
+
+### Platform Support
+- **Platform Agnostic Core**: 
+  - Abstract conversation engine independent of platforms
+  - Built-in support for CLI chat and Twitter
+  - Extensible platform manager interface
+  - Example implementations for new platform integration
+
+### Storage Layer
+- **Flexible Data Storage**:
+  - PostgreSQL with pgvector for semantic search
+  - GORM-based data models
+  - Customizable fragment storage
+  - Vector embedding support
+
+### Toolkit/Function System
+- **Pluggable Tool/Function Integration**:
+  - Support for custom tool implementations
+  - Built-in toolkit management
+  - Function calling capabilities
+  - Automatic tool response handling
+  - State-aware tool execution
+
 ---
 
 ## Blockchain Integration 🤝 
