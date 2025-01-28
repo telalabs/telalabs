@@ -1,10 +1,10 @@
-# Tela Labs 🕸
+# QQ Technologies 
 
 ![telabanner](https://github.com/user-attachments/assets/3e952dde-8ab5-4bc4-8142-d20a2d68d1a2)
 
 Tela Labs embodies the ambition to democratize AI, making it accessible, understandable, and applicable for real-world scenarios. At its core, Tela Labs hosts the Thor Framework, a sophisticated, high-performance foundation for building AI agents, designed to thrive in environments where speed, security, and scalability are paramount. Thor leverages the strengths of both Rust and Golang, combining Rust's safety and concurrency with Golang's simplicity and robustness to create a unique platform for AI development.
 
-## Vision 🌟 
+## Vision 
 Our mission at Tela Labs is to:
 
 Empower Developers: Provide tools and frameworks that allow developers of all levels to create, test, and deploy AI agents with ease.
@@ -19,7 +19,7 @@ Our Vision is a world where AI agents are seamlessly integrated into everyday li
 
 ---
 
-## Plots 🛠️
+## Plots 
 
 ### [Thor - An Advanced Conversational LLM Framework](https://github.com/telalabs/thor)  
 Thor is a modular, open-source conversational AI framework designed for the decentralized era. It bridges the power of advanced AI with the flexibility of systems.  
